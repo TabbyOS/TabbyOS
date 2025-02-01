@@ -10,7 +10,7 @@ with an emphasis on gaming tools, bots, and API integrations.
 
 🔧 Current Projects
 
-Custom Gaming Launcher – A feature-rich application with Steam API integration for seamless game management.
+[Custom Gaming Launcher](https://github.com/TabbyOS/GamingLauncher) – A feature-rich application with Steam API integration for seamless game management.
 
 Automated Steam Comment Bot – A background service that posts randomized, positive comments on Steam profiles.
 
