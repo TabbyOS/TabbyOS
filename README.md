@@ -29,3 +29,23 @@ Tools: Git, GitHub Actions, Docker
 I'm always open to collaborating on open-source projects related to automation,
 
 gaming tools, and AI integration. Feel free to explore my repositories and contribute!
+
+-----
+
+💖 **Support These Projects**
+
+If you enjoy any of these projects and would like to support their development, there are several ways you can help:
+
+💸 **Donate**
+
+Your donations help keep the development of these projects alive. They enable the addition of new features, improvements, and bug fixes. Every little bit helps, and your support is greatly appreciated!
+
+🤝 **Contribute**
+
+One of the best ways to support is by actively contributing! Whether it’s through reporting bugs, suggesting new features, or even submitting code improvements – your involvement is highly valued.
+
+📢 **Share**
+
+Not everyone knows about these projects yet! Sharing them with friends, colleagues, or on social media helps raise awareness and encourages others to get involved.
+
+Thank you so much for your support – whether it’s through donations, contributions, or simply spreading the word! Every bit makes a difference.
