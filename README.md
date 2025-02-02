@@ -12,7 +12,7 @@ with an emphasis on gaming tools, bots, and API integrations.
 
 [Custom Gaming Launcher](https://github.com/TabbyOS/GamingLauncher) – A feature-rich application with Steam API integration for seamless game management.
 
-Automated Steam Comment Bot – A background service that posts randomized, positive comments on Steam profiles.
+[Automated Steam Comment-Bot](https://github.com/TabbyOS/EchoNet/tree/v9.4-beta) – A background service that posts randomized, positive comments on Steam profiles.
 
 Real-Time Steam Chat Bot – A locally hosted LLM-powered chatbot for real-time interactions via Steam.
 
