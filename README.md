@@ -6,7 +6,7 @@ I'm Tabby, a software developer with a strong focus on Python and automation.
 
 My main interest lies in building efficient and user-friendly applications,
 
-with an emphasis on gaming tools, bots, and API integrations.
+with an emphasis on gaming tools, bots, and AI integrations.
 
 🔧 Current Projects
 
